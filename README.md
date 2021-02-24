@@ -47,3 +47,5 @@ Después de haber conseguido un esquema sobre el producto final se harán una se
 
 #### Test de usuarios
 Cuando apartir del prototipado se crea alo ms funcial, como una demo para sacarla a público, se selecciona un grupo de usuarios para que hagan una serie de acciones dentro de la aplicación y prueben ciertas funcionalidades y se les pedirá que evaluén ellos mismos la aplicación para comprobar si se cumplen las expectativas del usuario.
+
+### Conclusiones
