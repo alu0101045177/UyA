@@ -13,3 +13,7 @@ Cuando una persona entra en la universidad podrá comprobar que el tiempo se vue
 
 Para ello una persona puede apoyarse en ayudas que le faciliten este trabajo de organización del tiempo como puede ser una aplicación web para la gestión y optimización del tiempo de estudio para este alumno. Se puede crear una aplicación centrada en el usuario consumidor de ésta que sea una gran y potente herramienta de complemento para la época de sus estudios en la universidad.
 
+### *Metodología*
+Este documento ha sido creado por 3 alumnos de la Escuela Técnica Superior de Ingeniería Informática.Con el fin de crear un proyecyto diseñado con un gran enfoque en el usuario se ha usado algunas técnicas DCU para la aplicación web de gestión y optimización del tiempo de estudio como es una entrevista, una lluvia de ideas, prototipado digital y test de usuarios.
+
+1. Pruebita
