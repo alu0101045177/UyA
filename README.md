@@ -16,4 +16,16 @@ Para ello una persona puede apoyarse en ayudas que le faciliten este trabajo de 
 ### *Metodología*
 Este documento ha sido creado por 3 alumnos de la Escuela Técnica Superior de Ingeniería Informática.Con el fin de crear un proyecyto diseñado con un gran enfoque en el usuario se ha usado algunas técnicas DCU para la aplicación web de gestión y optimización del tiempo de estudio como es una entrevista, una lluvia de ideas, prototipado digital y test de usuarios.
 
-1. Pruebita
+### *Etapa de investigación*
+
+1. Entrevista. 
+Se elabora una serie de preguntas para hacer a un grupo de usuarios de la universidad, en ellas se hacían preguntas que tenían relación a sus hábitos de estudios, a su organización del tiempo, factores externos que pueden influenciar a sus hábitos de estudio, entre otras
+- ¿Cuánto tiempo dedica al día a estudiar una materia?
+- ¿Generalmente estudia solo o acompañado? Ya sea virtualmente o de  manera presencial
+- Del 1 al 10, siendo 1 Nada satisfecho y 10 Muy satisfecho ¿cómo cree que es su organización del tiempo para sus estudios?
+- ¿Hace algún tipo de actividad extraacadémica?
+- ¿Generalmente prefiere estudiar en la biblioteca o en su casa?
+- ¿Cómo de útil puede ser una aplicación de ayuda para la gestión del tiempo y optimización de este?
+Con esta serie de preguntas se busca recoger la máxima información útil y directa de los propios usuarios a fin de conseguir un producto final que pueda suplir la mayoría de servicios que espera el usuario
+
+
