@@ -14,7 +14,7 @@ Cuando una persona entra en la universidad podrá comprobar que el tiempo se vue
 Para ello una persona puede apoyarse en ayudas que le faciliten este trabajo de organización del tiempo como puede ser una aplicación web para la gestión y optimización del tiempo de estudio para este alumno. Se puede crear una aplicación centrada en el usuario consumidor de ésta que sea una gran y potente herramienta de complemento para la época de sus estudios en la universidad.
 
 ### *Metodología*
-Este documento ha sido creado por 3 alumnos de la Escuela Técnica Superior de Ingeniería Informática.Con el fin de crear un proyecyto diseñado con un gran enfoque en el usuario se ha usado algunas técnicas DCU para la aplicación web de gestión y optimización del tiempo de estudio como es una entrevista, una lluvia de ideas, prototipado digital y test de usuarios.
+Este documento ha sido creado por 3 alumnos de la Escuela Técnica Superior de Ingeniería Informática.Con el fin de crear un proyecyto diseñado con un gran enfoque en el usuario se ha usado algunas técnicas DCU para la aplicación web de gestión y optimización del tiempo de estudio como es una entrevista, una tormenta de ideas, prototipado digital y test de usuarios.
 
 ### *Etapa de investigación*
 
@@ -27,5 +27,25 @@ Se elabora una serie de preguntas para hacer a un grupo de usuarios de la univer
 - ¿Generalmente prefiere estudiar en la biblioteca o en su casa?
 - ¿Cómo de útil puede ser una aplicación de ayuda para la gestión del tiempo y optimización de este?
 Con esta serie de preguntas se busca recoger la máxima información útil y directa de los propios usuarios a fin de conseguir un producto final que pueda suplir la mayoría de servicios que espera el usuario
+
+#### Tormenta de ideas.
+Con ésta técnica lo que se espera es que entre todo el equipo se haga una agrupación de muchas ideas que hayan surgido para luego debatirlas y filtrarlas, aparte de que el equiupo encargado de preparar éste documento se ha pedido ayuda a los desarrolladores y técnicos para poder recabar toda la información posibles y abordar muchos puntos de vistas.
+- Autores del proyecto
+- Equipo de ayuda
+- Plan de gestión de tiempo
+- Toma de datos del usuario
+- Mapa de la situación actual del usuario
+- Sistema sencillo pero eficaz
+- Alarma
+- Recordatorios
+- Agenda virtual
+- Sincronización con Google Calendar
+- Horarios de clases del alumno
+
+#### Prototipado Digital
+Después de haber conseguido un esquema sobre el producto final se harán una serie de "bocetos digitales" que tendrá un carácter interno, ésto es, solo servirá como prototipos para dar forma a las ideas y ser base para el desarrollo de la aplicación final, en ningún momento se buscara enseñar los prototipos a los usuarios ya que no serán funcionales.
+
+#### Test de usuarios
+
 
 
