@@ -18,7 +18,7 @@ Este documento ha sido creado por 3 alumnos de la Escuela Técnica Superior de I
 
 ### *Etapa de investigación*
 
-1. Entrevista. 
+#### Entrevista. 
 Se elabora una serie de preguntas para hacer a un grupo de usuarios de la universidad, en ellas se hacían preguntas que tenían relación a sus hábitos de estudios, a su organización del tiempo, factores externos que pueden influenciar a sus hábitos de estudio, entre otras
 - ¿Cuánto tiempo dedica al día a estudiar una materia?
 - ¿Generalmente estudia solo o acompañado? Ya sea virtualmente o de  manera presencial
