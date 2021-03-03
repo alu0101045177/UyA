@@ -1,0 +1,49 @@
+# Uso del navegador para el desarrollo web
+####
+####
+#### Marcos Padilla Herrera.
+
+### Objetivo.
+El objetivo de este documento es documentar una serie de respuestas a una batería de preguntas que se nos ha planteado sobre la herramienta de desarrollo web.
+
+## Preguntas Y Respuestas
+- *¿Qué peticiones desencadena la consulta?*
+La consulta desencadena una serie de peticiones Get que son una solicitud de representación de un recurso específico como pueden ser las imágenes, las hojas de estilos, etc
+- *¿Qué tipo de petición estás realizando?*
+El tipo de dichas peticiones son HTTP GET 3.
+- *¿Qué código de estatus devuelve?*
+200 OK. Esto siginifica que la solicitud ha tenido éxito.
+- *¿Qué DNS tiene el servidor?*
+El Dominio de Nombre que tiene el Servidor es https://www3.gobiernodecanarias.org/citasalud/ 
+- *¿Qué IP tiene tiene el servidor?*
+93.188.137.126:443 6
+- *¿La página tiene alguna cookie?, ¿Cuáles?.*
+Sí, ASP.NET_Sessionld 7.
+- *¿Qué idioma acepta?*
+Alemán, Inglés y Español.
+- *Alguna línea de código JavaScript*
+    function ui(n, t, r) {
+                if (i.isFunction(t))
+                return i.grep(n, function(n, i) {
+                return !!t.call(n, i, n) !== r
+            });
+- *Alguna línea de código CSS que se aplique*
+         body {
+            margin: 0;
+            font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            text-align: left;
+            background-color: #fff
+}
+- *Alguna línea de código HTML que se aplique.*    
+<div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4 id="H2" class="modal-title" runat="server">Error</h4>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-danger">
+                    <p></p>
