@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Proyecto Web UyA</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Inicio.</h1>
+    <h3>Objetivo.</h3>
+    <p>El objetivo de esta web es dejar documentado la experiencia de crear
+      un p&aacutegina web en <abbr title="HyperText Markup Language">HTML</abbr></p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Contact</th>
+      </tr>
+      <tr>
+        <td>Marcos Padilla Herrera</td>
+        <td><a href="alu0101045177@ull.edu.es"></a></td>
+        <p><em>Cualquier sugerencia es bienvenida</em></p>
+      </tr>
+    </table>
+    <form> <!--habría que especificar el atributo action y target-->
+      <p><strong>Nombre: <input type="text" name="name"</strong></p>
+      <p>Deja tu comentario: <br>
+      <textarea name="message"></textarea></p>
+      <input type="submit" value="Enviar">
+    </form>
+    <img src=".png">
+  </body>
+</html>
