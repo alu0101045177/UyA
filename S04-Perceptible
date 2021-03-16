@@ -1,0 +1,29 @@
+# Metodología WCAG-EM II. Muestra
+_Realizar un documento que incluya en una tabla un listado de las pautas 1.1, 1.2 Y 1.3 incluidas en 
+el principio perceptible y alguna de las técnicas suficientes para cumplir con el principio. Se debe 
+ilustrar con imágenes de forma similar al ejemplo mostrado en clase._
+
+### Sitio web analizado:
+
+# Metodología WCAG-EM II. Muestra 
+
+_Realizar un documento que incluya en una tabla un listado de las pautas 1.1, 1.2 Y 1.3 incluidas en 
+el principio perceptible y alguna de las técnicas suficientes para cumplir con el principio. Se debe 
+ilustrar con imágenes de forma similar al ejemplo mostrado en clase_
+Sitio web analizado: [tubillete](https://www.tubillete.com/)
+
+La página cumple en un 75% los criterios A, si bien hay que tener en cuenta que el 25% son criterios 
+que no se aplican, y por lo tanto la herramienta auditool los considera como que se cumplen. 
+En cuanto a los criterios AA, se cumple en un 90%, siendo todos casos de verdadero cumplimiento, 
+ya que prácticamente no hay casos que no se apliquen. 
+
+## Pauta 1.1: Alternativas textuales → Parcialmente 
+Respecto a este criterio podemos concluir que si cumplen con los requisitos mayoritariamente. Sin 
+embargo, en los iconos de las redes sociales no aparece esta alternativa textual. 
+
+## Pauta 1.2: Alternativa para multimedia tempo-dependientes → No se aplica 
+La página carece de contenido audiovisual con lo que todos los puntos 1.2.x no se aplican a esta 
+página. 
+
+##Pauta 1.3: Adaptable → No se cumple 
+Este sitio web no cumple con los requisitos de este apartado. 
